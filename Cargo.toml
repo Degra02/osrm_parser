@@ -2,6 +2,11 @@
 name = "osrm_parser"
 version = "0.1.0"
 edition = "2021"
+description = "OSRM requests builder and response parser"
+readme = "README.md"
+keywords = ["osrm", "routing", "parser"]
+
+
 
 [dependencies]
 serde = { version = "1.0.204", features = ["derive"] }
