@@ -5,6 +5,7 @@ edition = "2021"
 description = "OSRM requests builder and response parser"
 readme = "README.md"
 keywords = ["osrm", "routing", "parser"]
+license = "MIT"
 
 
 
